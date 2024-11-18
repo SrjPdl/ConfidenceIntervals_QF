@@ -1,0 +1,75 @@
+Results for Function 5
+-----------------------------------------------------
+
+Using normal distribution (mean=0.90, std=0.03) as input
+----------------------------------------------
+
+N:    10	 fraction missed: 0.0977
+N:   100	 fraction missed: 0.0972
+N:  1000	 fraction missed: 0.0955
+N: 10000	 fraction missed: 0.0953
+
+Using normal distribution (mean=0.50, std=0.16) as input
+----------------------------------------------
+
+N:    10	 fraction missed: 0.1045
+N:   100	 fraction missed: 0.1016
+N:  1000	 fraction missed: 0.0980
+N: 10000	 fraction missed: 0.1004
+
+Using normal distribution (mean=0.10, std=0.03) as input
+----------------------------------------------
+
+N:    10	 fraction missed: 0.0977
+N:   100	 fraction missed: 0.1027
+N:  1000	 fraction missed: 0.1025
+N: 10000	 fraction missed: 0.0979
+
+Using uniform distribution (a=0.00, b=1.00) as input
+----------------------------------------------
+
+N:    10	 fraction missed: 0.1014
+N:   100	 fraction missed: 0.1056
+N:  1000	 fraction missed: 0.1029
+N: 10000	 fraction missed: 0.1062
+
+Using uniform distribution (a=0.00, b=0.01) as input
+----------------------------------------------
+
+N:    10	 fraction missed: 0.0974
+N:   100	 fraction missed: 0.1008
+N:  1000	 fraction missed: 0.0994
+N: 10000	 fraction missed: 0.0966
+
+Using uniform distribution (a=0.90, b=0.99) as input
+----------------------------------------------
+
+N:    10	 fraction missed: 0.0981
+N:   100	 fraction missed: 0.1024
+N:  1000	 fraction missed: 0.0992
+N: 10000	 fraction missed: 0.1047
+
+Using bernoulli distribution (theta=0.01) as input
+----------------------------------------------
+
+N:    10	 fraction missed: 0.0972
+N:   100	 fraction missed: 0.0625
+N:  1000	 fraction missed: 0.0907
+N: 10000	 fraction missed: 0.0962
+
+Using bernoulli distribution (theta=0.50) as input
+----------------------------------------------
+
+N:    10	 fraction missed: 0.0720
+N:   100	 fraction missed: 0.0918
+N:  1000	 fraction missed: 0.0954
+N: 10000	 fraction missed: 0.0984
+
+Using bernoulli distribution (theta=0.99) as input
+----------------------------------------------
+
+N:    10	 fraction missed: 0.0949
+N:   100	 fraction missed: 0.0643
+N:  1000	 fraction missed: 0.0904
+N: 10000	 fraction missed: 0.0953
+
